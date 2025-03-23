@@ -28,7 +28,7 @@ skills:
 
 ```
 
-<h2 align="left">About Me:</h2>
+## Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esoto6&show_icons=true&locale=en&layout=compact" alt="esoto6" /></p>
 
 <!--<div style="display: flex; align-items: center; gap 2px;">
